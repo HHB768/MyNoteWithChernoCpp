@@ -10,3 +10,4 @@ Since I have completed this part of learning, my notes will soon be updated.
 
 * My style: learn from codes instead of plain words.
 * Get started on _1_introduction.cpp.                 5.16 / 23
+* Add some comments in my blog collection: https://www.cnblogs.com/hhb768/collections/1520
