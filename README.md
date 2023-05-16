@@ -9,4 +9,4 @@ Since I have completed this part of learning, my notes will soon be updated.
 ---
 
 * My style: learn from codes instead of plain words.
-* start from _1_introduction.cpp.  5.16 / 23
+* Get start from _1_introduction.cpp.  5.16 / 23
