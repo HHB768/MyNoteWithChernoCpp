@@ -28,7 +28,7 @@ hhb multiply(int a, int b)
 // if you call a function to do nothing, the compiler will remove it when the optimization is set to 'maxspeed'
 // you can check this by ouputing the .asm file
 
-// 3 asembling
+// 3 assembling
 // 4 linking: find the signs and functions and link them together
 // if we declare a function without correspoding definition in other files, link error occurs
 // but if it is never use, no error occurs
