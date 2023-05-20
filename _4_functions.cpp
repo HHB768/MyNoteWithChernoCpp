@@ -7,7 +7,7 @@ int multiply1(int a, int b)
 
 
 void multiandlog(int a, int b)
-{
+{ 
 	std::cout << multiply1(a, b) << std::endl;
 }
 
