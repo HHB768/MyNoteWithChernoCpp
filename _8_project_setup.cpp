@@ -1,4 +1,4 @@
-// click show all files to know what is in your disk (explorer)
+// click show all files to know what is like in your disk (explorer)
 
 #include <iostream>
 
