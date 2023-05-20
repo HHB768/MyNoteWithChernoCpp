@@ -1,7 +1,7 @@
 #include <iostream>
 
 int multiply1(int a, int b)
-{ 
+	{ 
 	return a * b;
 }
 
