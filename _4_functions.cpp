@@ -21,3 +21,4 @@ int main()
 	multiandlog(5, 8);
 	multiandlog(10, 15);
 }
+// 
